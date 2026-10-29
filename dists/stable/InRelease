@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 29 Oct 2026 14:35:59 +0000
+Label: Jay
+Origin: Jay APT Repository
+Suite: stable
+MD5Sum:
+ 2bd4070ba7c3ed4245116b5dcace6df1              145 Release
+ 965d80448498bc78627407521a5b36a1              678 main/binary-amd64/Packages
+ 5e160b24ae372cd4282e728d108e52ef              465 main/binary-amd64/Packages.gz
+SHA1:
+ 95367ee54197dca5110b7a6a594e92baa9e8ef87              145 Release
+ e87f52417552d434ec44404ada585ded261ca4a5              678 main/binary-amd64/Packages
+ b6f98e95b51f76a6210b169d9924b0313ba701ff              465 main/binary-amd64/Packages.gz
+SHA256:
+ ff5759d8c8910c5202edb72e5b11c2537bfc8085c3c5f2d2f45177b70fe40a0a              145 Release
+ 0b674cfde377b84cce1eb15a316b81d24d5c6a30dd9392f557235e87d6a983e3              678 main/binary-amd64/Packages
+ a88c3e389932c7908045ca661a4f8acdc10174fa0b8c8a4b5fa392fa4cf9e5b6              465 main/binary-amd64/Packages.gz
+SHA512:
+ 763f302bd81c6404910228109982c3abaca7de2b0a6e3b36a872be24ebe5a72faae33829ad6277a44e754ea6a294a73161b58bf8f0e3ab32bdd058f834537462              145 Release
+ 9a24f3e61507d91bba08e7034d35032337cdd51465e59f0b16873663f4d1feb82bdeecf38495ec167e3de3f7a4c01998e437c6a239192c3cfcb2c494cdd25322              678 main/binary-amd64/Packages
+ 7944179d057c4a6cfb1cf986d5214f7620dc58390f4b2f25bad8a7c98cdeabf4e224e768bf8503d7c94ef8e023ba630ee09a3092b1c82b766f5100bc7f63fdee              465 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEshv/lqENbx6loBVP3pqOe9N/stsFAmrjWjUACgkQ3pqOe9N/
+stsTtxAAzmONT9eiTqEscrwvmSkjEgDtQAKyWPwS13FBWpx/yFP//HTBvxbHRGlD
+HoIv2eq1vkVo6waVxlJFXFqttIw2lluAGzgffwfPEFDYTc0nP3vuV4S8gKcdwAwW
+qFqtlDxfKiMEkGklzYkD+JMQsICh/28Ame0HVn64jXPM4XInG0FKH29ETuLhhOhI
+wVIOhqrv3olQJqqE73aIFC22ozH5tH8ch2GgTi8auOt+T271KrWVFC9Gco0ud9vE
+YBI2/+vhN3C9U4uZYero0HIV3IhEU2kcmqfR6YOy6j+cRoe6UjbfsUz3ip/L0zbv
+rCNAK4W9o1j4JbcQG0f9GUbKo9rfK4ABXc2PCALLi5aGLm68H/eChKmb5mCqJmzL
+D/ctvIGQOYzEbbAxjx849BZGXvyBi41oHPgeZiucI68AY55TLBD8Jtt13Vkg32z9
+NtGyXbClkvLqUWQH5lSGoQtMBrhCDbOWWeMfsRD1ACOY621UECJlr/SzlkFAsauJ
+bOA3speRKbKpeMbTjJWksSKI11A+seVZ6BP9IAHtOI5CeM7G+J5zTO20gABr4DNP
+F79vNx4tzrjMxh+qtEyBr4djmTQArR5njEB1LwiIybanparxpO6qQgjI+2htwnrY
+vm8nfpjVgRY23/oaJJYzkIWd+QPsgNDVocWq6n73K1qZcww+XdM=
+=X5tQ
+-----END PGP SIGNATURE-----
